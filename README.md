@@ -8,14 +8,14 @@ to a self-hosted automation workflow, down to low-level code in C.
 
 ### What I'm building
 
-- ** Linear regression from scratch** · *C++*
+- **Linear regression from scratch** · *C++*
   Least-squares (closed form) vs. gradient descent, implemented in pure C++ with no ML
   libraries — the closed form acts as the correctness oracle for the descent.
 
-- ** MAM Jewellery** · *React · Vite · Vercel* · **[live site →](https://mam-jewellery-stories.vercel.app)**
+- **MAM Jewellery** · *React · Vite · Vercel* · **[live site →](https://mam-jewellery-stories.vercel.app)**
   Designed, built and deployed the live website for a contemporary jewellery studio in Cascais.
 
-- ** n8n automation** · self-hosted workflow automation in Docker, including Discord
+- **n8n automation** · self-hosted workflow automation in Docker, including Discord
   triggers that react to activity and chain API calls.
 
 ### Tech
